@@ -6,3 +6,16 @@ body > * { /* the app-root */
   padding: 0;
   height: 100%;
 }
+
+.fc-widget-header{
+  background-color:blue;
+}
+.fc-scrollgrid-sync-inner{
+  background-color: #1c3b92;
+  padding: 3%;
+  color: white;
+}
+.fc-daygrid-day-frame {
+  background-color: white;
+  color:black;
+}
